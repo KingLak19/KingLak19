@@ -6,17 +6,18 @@
 ### Languages and Tools:
 
 
+<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
+<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
 <br />
 
-![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingLak19&count_private=true&show_icons=true&theme=radical&hide_border=True)
+### My Github Stats:
+
+![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingLak19&count_private=true&show_icons=true&theme=radical&hide_border=True&hide_title=True)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingLak19&theme=radical&hide_border=True)
  
