@@ -1,11 +1,12 @@
 ### About me
 
 - ⛩ Hi, I’m Lakshan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-- 🌟 I’m interested in Artificial Intelligence, Machine Learning
-- 🌱 I’m currently working on small python projects
+- 🐱‍💻 I’m interested in Artificial Intelligence, Machine Learning
+- ⚡ I’m currently working on small python projects
 - 📫 My e-mail : lakshananirudh19@gmail.com
+- 🔭 My other interests : Football and Anime
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 <img align="left" alt="Sublime Text 3" width="32px" src="https://avatars.githubusercontent.com/u/684879?s=280&v=4" />
 
