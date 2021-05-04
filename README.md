@@ -1,6 +1,8 @@
-###⛩ Hi, I’m Lakshan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### About me
+
+- ⛩ Hi, I’m Lakshan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 - 🌟 I’m interested in Artificial Intelligence, Machine Learning
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working on small python projects
 - 📫 My e-mail : lakshananirudh19@gmail.com
 
 ### Languages and Tools:
