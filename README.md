@@ -2,9 +2,10 @@
 
 - ⛩ Hi, I’m Lakshan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 - 🐱‍💻 I’m interested in Artificial Intelligence, Machine Learning
-- ⚡ I’m currently working on small python projects
+- ⚡ I’m currently working on small Python projects
 - 📫 My e-mail : lakshananirudh19@gmail.com
-- 🔭 My other interests : Football and Anime
+- 🌟 My Goals for 2021 : Get more into Trading and learn more about AI
+- 🔭 My other interests : Football, Anime and Trading
 
 ### Languages and Tools I use:
 
@@ -25,9 +26,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingLak19&theme=radical&hide_border=True)
  
-
-
-
 <!---
 KingLak19/KingLak19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
