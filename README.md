@@ -16,10 +16,12 @@
 <br />
 <br />
 
-![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingLak19&count_private=true&show_icons=true&theme=radical)
+![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingLak19&count_private=true&show_icons=true&theme=radical&hide_border=True)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingLak19&theme=radical)]
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingLak19&theme=radical&hide_border=True)
+ 
+<br />
+<br />
 
 <!---
 KingLak19/KingLak19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
