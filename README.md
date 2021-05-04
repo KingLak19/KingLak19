@@ -27,7 +27,3 @@
 ![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingLak19&count_private=true&show_icons=true&theme=radical&hide_border=True&hide_title=True&hide=issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingLak19&theme=radical&hide_border=True)
-
-KingLak19/KingLak19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
