@@ -5,6 +5,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Sublime Text 3" width="32px" src="https://avatars.githubusercontent.com/u/684879?s=280&v=4" />
 
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 
@@ -17,12 +18,12 @@
 
 ### My Github Stats:
 
-![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingLak19&count_private=true&show_icons=true&theme=radical&hide_border=True&hide_title=True)
+![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingLak19&count_private=true&show_icons=true&theme=radical&hide_border=True&hide_title=True&hide=issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingLak19&theme=radical&hide_border=True)
  
-<br />
-<br />
+
+
 
 <!---
 KingLak19/KingLak19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
