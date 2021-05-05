@@ -3,8 +3,8 @@
 - 🐱‍💻 I’m interested in Artificial Intelligence, Machine Learning
 - ⚡ I’m currently working on small Python projects
 - 📫 My e-mail : lakshananirudh19@gmail.com
-- 🌟 My Goals for 2021 : Get more into Trading and learn more about AI
-- 🔭 My other interests : Football, Anime and Trading
+- 🌟 My Goals for 2021 : Learn more about AI and ML
+- 🔭 My other interests : Football and Anime
 
 <br />
 
